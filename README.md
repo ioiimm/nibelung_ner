@@ -8,4 +8,5 @@
 - Средневерхненемецкий_NER_final.ipynb - код с экспериментами
 
 Литература
+
 Besnier, Mattingly 2021 - Besnier, C., & Mattingly, W. (2021). Named-Entity Dataset for Medieval Latin, Middle High German and Old Norse. Journal of Open Humanities Data, 7, 23. https://doi.org/10.5334/johd.36
